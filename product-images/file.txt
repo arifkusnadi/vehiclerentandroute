@@ -1,0 +1,18 @@
+ Volume in drive C has no label.
+ Volume Serial Number is ACF5-EA3B
+
+ Directory of C:\Users\Darkshan\Documents\programming\freelance\arent_webservice\product-images
+
+24/06/2021  09:11    <DIR>          .
+24/06/2021  09:11    <DIR>          ..
+24/06/2021  09:08            16.243 beat.jpg
+24/06/2021  09:10            29.987 beat2.jpg
+30/03/2021  06:54           205.478 citroen_0.png
+30/03/2021  06:54           212.750 citroen_1.png
+30/03/2021  06:54           206.705 citroen_2.png
+24/06/2021  09:11                 0 file.txt
+24/06/2021  09:06            56.036 klx1.jpg
+24/06/2021  09:07            99.911 klx2.jpg
+15/06/2021  05:47            52.221 tesla.jpg
+               9 File(s)        879.331 bytes
+               2 Dir(s)     115.773.440 bytes free
